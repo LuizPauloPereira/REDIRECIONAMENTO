@@ -101,11 +101,15 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Web.config" />
     <Content Include="Views\Coisas\Falando.cshtml" />
+    <Content Include="Views\QuemSomos\QuemSomos.cshtml" />
+    <Content Include="Views\TrabalheConosco\TrabalheConosco.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CoisasController.cs" />
     <Compile Include="Controllers\MainController.cs" />
+    <Compile Include="Controllers\QuemSomosController.cs" />
+    <Compile Include="Controllers\TrabalheConoscoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
