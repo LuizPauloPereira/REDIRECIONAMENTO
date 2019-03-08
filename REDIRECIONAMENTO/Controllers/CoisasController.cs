@@ -11,7 +11,7 @@ namespace REDIRECIONAMENTO.Controllers
         // GET: Coisas
         public ActionResult FaleConosco()
         {
-            return View();
+            return View("Falando");
         }
     }
 }
