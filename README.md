@@ -1,4 +1,4 @@
-# REDIRECIONAMENTO
+# REDIRECIONAMENTO "Favor limpar e recompilar projeto antes de executar, aqui deu erro sem fazer isso"
 Aula de Desenvolvimento web com o professor Rodrigo
 
 Entregar até 15hrs do dia 28/03/2019 (quinta-feira)
